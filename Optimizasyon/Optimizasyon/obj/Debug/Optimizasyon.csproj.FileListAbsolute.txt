@@ -1,0 +1,9 @@
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Optimizasyon\Optimizasyon\bin\Debug\Optimizasyon.exe.config
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Optimizasyon\Optimizasyon\bin\Debug\Optimizasyon.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Optimizasyon\Optimizasyon\bin\Debug\Optimizasyon.pdb
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Optimizasyon\Optimizasyon\obj\Debug\Optimizasyon.csprojResolveAssemblyReference.cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Optimizasyon\Optimizasyon\obj\Debug\Optimizasyon.Properties.Resources.resources
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Optimizasyon\Optimizasyon\obj\Debug\Optimizasyon.csproj.GenerateResource.Cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Optimizasyon\Optimizasyon\obj\Debug\Optimizasyon.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Optimizasyon\Optimizasyon\obj\Debug\Optimizasyon.pdb
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Optimizasyon\Optimizasyon\obj\Debug\Optimizasyon.Form1.resources
